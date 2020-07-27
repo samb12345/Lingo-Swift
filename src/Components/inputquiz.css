@@ -1,0 +1,256 @@
+#flashcardcontainerinput{
+    height: 75vh;
+    display: grid;
+    grid-template-areas: 
+    "datadivinput1 flashcardboxinput1";
+    grid-template-columns: 25% 75%;
+    margin: none;
+    padding: none;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+#flashcardboxinput1{
+    background-color: white;
+    border: solid 1px grey;
+    height: 75vh;
+    grid-area: flashcardboxinput1;
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-areas: 
+    'flashheaderinput'
+    'flashcontentinput'
+    'bottombarinput';
+}
+
+#flashheaderinput{
+    grid-area: flashheaderinput;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#flashcontentinput{
+    grid-area: flashcontentinput;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#bottombarinput{
+    grid-area: bottombarinput;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-areas: 
+    'progressinput navbuttonsin inputscore';
+
+}
+
+#inputsection{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#progressinput{
+grid-area: progressinput;
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#navbuttonsin{
+    grid-area: navbuttonsin;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#inputscore{
+    grid-area: inputscore;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#datadivinput1{
+    display: grid;
+    height: 75vh;
+    overflow: auto;
+    grid-template-columns: 100%;
+    grid-area: datadivinput1;
+    border-left: solid 1px grey;
+    color: white;
+}
+
+#datadivinput1 div div{
+    margin-top: 25px;
+    background-color: rgb(76, 189, 241);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#datadivinput1 div div:hover{
+    background-color: rgb(136, 238, 224);
+}
+
+#datadivinput1 div div h4:hover{
+    background-color: rgb(136, 238, 224);
+}
+
+#wrongwordsinput{
+ display: grid;
+ grid-template-columns: auto auto auto auto;
+ justify-content: center;
+ align-items: center;
+ column-gap: 40px;
+}
+
+.rightwronginputpair{
+    display: flex;
+    flex-direction: row;
+}
+
+.rightwronginputpair h3{
+    margin: 10px;
+}
+
+#wrongwordinputsection1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#wrongwordinputsection2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcardbtn4 {
+        font-size: 10px;
+       
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadivinput1 div div h4 {
+        font-size: 15px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcardcontainerinput {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+  }
+
+  
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #navbuttonsin {
+        flex-wrap: wrap;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcardbtn4  {
+        width: 70px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #progressinput h6  {
+        font-size: 20px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadivinput1  div div h3 {
+        font-size: 20px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadivinput1  div div h4 {
+        font-size: 15px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadivinput1  div div {
+        margin-top: 25px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadivinput1 div div:hover {
+        background-color: rgb(136, 238, 224);
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadivinput1  div div h4:hover {
+        background-color: rgb(136, 238, 224);
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcontentinput h1 {
+       font-size: 30px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashheaderinput {
+       font-size: 30px;
+    }
+  }
+
+  
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #wrongwordsinput {
+       grid-template-columns: auto auto auto auto;
+       column-gap: 0;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #wrongwordsinput h3 {
+       font-size: 10px;
+    }
+  }
+
+
+
