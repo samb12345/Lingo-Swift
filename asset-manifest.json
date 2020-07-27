@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lingo-Swift/static/css/main.62f0957c.chunk.css",
-    "main.js": "/Lingo-Swift/static/js/main.d638f157.chunk.js",
-    "main.js.map": "/Lingo-Swift/static/js/main.d638f157.chunk.js.map",
+    "main.js": "/Lingo-Swift/static/js/main.50e36caf.chunk.js",
+    "main.js.map": "/Lingo-Swift/static/js/main.50e36caf.chunk.js.map",
     "runtime-main.js": "/Lingo-Swift/static/js/runtime-main.9f62e7d1.js",
     "runtime-main.js.map": "/Lingo-Swift/static/js/runtime-main.9f62e7d1.js.map",
     "static/css/2.f65acde2.chunk.css": "/Lingo-Swift/static/css/2.f65acde2.chunk.css",
     "static/js/2.8831c7d9.chunk.js": "/Lingo-Swift/static/js/2.8831c7d9.chunk.js",
     "static/js/2.8831c7d9.chunk.js.map": "/Lingo-Swift/static/js/2.8831c7d9.chunk.js.map",
     "index.html": "/Lingo-Swift/index.html",
-    "precache-manifest.7f8b235b14ee612c1fbb4bf26c97b350.js": "/Lingo-Swift/precache-manifest.7f8b235b14ee612c1fbb4bf26c97b350.js",
+    "precache-manifest.0d1363b2bb88f929f7fedad8f75d947d.js": "/Lingo-Swift/precache-manifest.0d1363b2bb88f929f7fedad8f75d947d.js",
     "service-worker.js": "/Lingo-Swift/service-worker.js",
     "static/css/2.f65acde2.chunk.css.map": "/Lingo-Swift/static/css/2.f65acde2.chunk.css.map",
     "static/css/main.62f0957c.chunk.css.map": "/Lingo-Swift/static/css/main.62f0957c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.8831c7d9.chunk.js",
     "static/css/main.62f0957c.chunk.css",
-    "static/js/main.d638f157.chunk.js"
+    "static/js/main.50e36caf.chunk.js"
   ]
 }
