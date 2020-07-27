@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Lingo-Swift/precache-manifest.24714e4e3d327b9502b4c76368e9127e.js"
+  "/Lingo-Swift/precache-manifest.8b7fe59f2685551e7c2d6a46bd0456fb.js"
 );
 
 self.addEventListener('message', (event) => {
