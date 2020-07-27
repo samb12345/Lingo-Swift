@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lingoswift/static/css/main.0d2fcf27.chunk.css",
-    "main.js": "/lingoswift/static/js/main.827afec2.chunk.js",
-    "main.js.map": "/lingoswift/static/js/main.827afec2.chunk.js.map",
-    "runtime-main.js": "/lingoswift/static/js/runtime-main.f563a32d.js",
-    "runtime-main.js.map": "/lingoswift/static/js/runtime-main.f563a32d.js.map",
-    "static/css/2.f65acde2.chunk.css": "/lingoswift/static/css/2.f65acde2.chunk.css",
-    "static/js/2.18e514db.chunk.js": "/lingoswift/static/js/2.18e514db.chunk.js",
-    "static/js/2.18e514db.chunk.js.map": "/lingoswift/static/js/2.18e514db.chunk.js.map",
-    "index.html": "/lingoswift/index.html",
-    "precache-manifest.5566c711368c4cef7f6c47aa578cef80.js": "/lingoswift/precache-manifest.5566c711368c4cef7f6c47aa578cef80.js",
-    "service-worker.js": "/lingoswift/service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "/lingoswift/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.0d2fcf27.chunk.css.map": "/lingoswift/static/css/main.0d2fcf27.chunk.css.map",
-    "static/js/2.18e514db.chunk.js.LICENSE.txt": "/lingoswift/static/js/2.18e514db.chunk.js.LICENSE.txt"
+    "main.css": "/Lingo-Swift/static/css/main.0d2fcf27.chunk.css",
+    "main.js": "/Lingo-Swift/static/js/main.543cb174.chunk.js",
+    "main.js.map": "/Lingo-Swift/static/js/main.543cb174.chunk.js.map",
+    "runtime-main.js": "/Lingo-Swift/static/js/runtime-main.9f62e7d1.js",
+    "runtime-main.js.map": "/Lingo-Swift/static/js/runtime-main.9f62e7d1.js.map",
+    "static/css/2.f65acde2.chunk.css": "/Lingo-Swift/static/css/2.f65acde2.chunk.css",
+    "static/js/2.18e514db.chunk.js": "/Lingo-Swift/static/js/2.18e514db.chunk.js",
+    "static/js/2.18e514db.chunk.js.map": "/Lingo-Swift/static/js/2.18e514db.chunk.js.map",
+    "index.html": "/Lingo-Swift/index.html",
+    "precache-manifest.3927f3698c49d4ffbe4f474ac1bf440c.js": "/Lingo-Swift/precache-manifest.3927f3698c49d4ffbe4f474ac1bf440c.js",
+    "service-worker.js": "/Lingo-Swift/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/Lingo-Swift/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.0d2fcf27.chunk.css.map": "/Lingo-Swift/static/css/main.0d2fcf27.chunk.css.map",
+    "static/js/2.18e514db.chunk.js.LICENSE.txt": "/Lingo-Swift/static/js/2.18e514db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f563a32d.js",
+    "static/js/runtime-main.9f62e7d1.js",
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.18e514db.chunk.js",
     "static/css/main.0d2fcf27.chunk.css",
-    "static/js/main.827afec2.chunk.js"
+    "static/js/main.543cb174.chunk.js"
   ]
 }
