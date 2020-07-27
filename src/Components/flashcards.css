@@ -1,0 +1,220 @@
+#flashcardcontainer2{
+    height: 75vh;
+    display: grid;
+    grid-template-areas:
+    'datadiv2 flashcardboxflash';
+    grid-template-columns: 25% 75%;
+    margin: none;
+    padding: none;
+    text-align: center;
+    gap: none;
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#datadiv2{
+    grid-area: datadiv2;
+    height: 75vh;
+    overflow: auto;
+    grid-template-columns: 100%;
+    background-color: white;
+    border-left: solid 1px grey;
+    color: white;
+}
+
+#datadiv2 div div{
+    margin-top: 25px;
+    background-color: rgb(76, 189, 241);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#datadiv2 div div:hover{
+    background-color: rgb(136, 238, 224);
+}
+
+#datadiv2 div div h4:hover{
+    background-color: rgb(136, 238, 224);
+}
+
+#buttondiv1{
+    color: white;
+}
+
+#flashcardboxflash{
+    background-color: white;
+    border: solid 1px grey;
+    height: 75vh;
+    display: grid;
+    grid-template-rows: 120px auto 120px;
+    grid-template-areas: 
+    'flashheader'
+    'flashcontentdiv'
+    'bottombar';
+}
+
+
+#flashheader{
+    grid-area: flashheader;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#flashcontentdiv{
+    grid-area: flashcontentdiv;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#bottombar{
+    grid-area: bottombar;
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-areas: 
+    'progress1 navbuttons1';
+}
+
+#navbuttons1{
+    grid-area: navbuttons1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#progress1{
+    grid-area: progress1;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#flashcontent{
+    font-size: 60px;
+}
+
+#flashheading{
+    font-size: 50px;
+}
+
+
+#datadiv2 div button{
+ width: 100%;
+}
+
+
+
+#flashcontent{
+    color: black;
+}
+
+#flashcardbtn1{
+    width: 110px;
+}
+
+#adscol{
+    width: 100%;
+    grid-area: adscol;
+}
+
+
+@media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcardbtn1 {
+        font-size: 10px;
+
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcardcontainer2 {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+  }
+
+  
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #navbuttons1  {
+        flex-wrap: wrap;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcardbtn1  {
+        width: 70px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #progress1 h6  {
+        font-size: 20px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadiv2  div div h3 {
+        font-size: 20px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadiv2  div div h4 {
+        font-size: 15px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadiv2  div div {
+        margin-top: 25px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadiv2  div div:hover {
+        background-color: rgb(136, 238, 224);
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #datadiv2  div div h4:hover {
+        background-color: rgb(136, 238, 224);
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashcontentdiv h1 {
+       font-size: 30px;
+    }
+  }
+
+  @media only screen and (max-width:768px) {
+    /* For mobile phones: */
+    #flashheading {
+       font-size: 30px;
+    }
+  }
+
+  
+

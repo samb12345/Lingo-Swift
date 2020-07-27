@@ -1,0 +1,21 @@
+#navbarlink{
+    margin-right: 50px;
+}
+
+#mainnav{
+    background-color: whitesmoke;
+    height: 100px;
+    overflow: hidden;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+.navbar-brand{
+    color: darkslategrey;
+}
+
+#nav-link2{
+    color: darkslategrey;
+}
+
+
+
