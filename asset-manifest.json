@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lingoswift/static/css/main.0d2fcf27.chunk.css",
+    "main.js": "/lingoswift/static/js/main.827afec2.chunk.js",
+    "main.js.map": "/lingoswift/static/js/main.827afec2.chunk.js.map",
+    "runtime-main.js": "/lingoswift/static/js/runtime-main.f563a32d.js",
+    "runtime-main.js.map": "/lingoswift/static/js/runtime-main.f563a32d.js.map",
+    "static/css/2.f65acde2.chunk.css": "/lingoswift/static/css/2.f65acde2.chunk.css",
+    "static/js/2.18e514db.chunk.js": "/lingoswift/static/js/2.18e514db.chunk.js",
+    "static/js/2.18e514db.chunk.js.map": "/lingoswift/static/js/2.18e514db.chunk.js.map",
+    "index.html": "/lingoswift/index.html",
+    "precache-manifest.5566c711368c4cef7f6c47aa578cef80.js": "/lingoswift/precache-manifest.5566c711368c4cef7f6c47aa578cef80.js",
+    "service-worker.js": "/lingoswift/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/lingoswift/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.0d2fcf27.chunk.css.map": "/lingoswift/static/css/main.0d2fcf27.chunk.css.map",
+    "static/js/2.18e514db.chunk.js.LICENSE.txt": "/lingoswift/static/js/2.18e514db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f563a32d.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.18e514db.chunk.js",
+    "static/css/main.0d2fcf27.chunk.css",
+    "static/js/main.827afec2.chunk.js"
+  ]
+}
