@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Lingo-Swift/static/css/main.51f6b77a.chunk.css",
+    "main.css": "/Lingo-Swift/static/css/main.3b970637.chunk.css",
     "main.js": "/Lingo-Swift/static/js/main.a3528d72.chunk.js",
     "main.js.map": "/Lingo-Swift/static/js/main.a3528d72.chunk.js.map",
     "runtime-main.js": "/Lingo-Swift/static/js/runtime-main.9f62e7d1.js",
@@ -9,17 +9,17 @@
     "static/js/2.c42058f6.chunk.js": "/Lingo-Swift/static/js/2.c42058f6.chunk.js",
     "static/js/2.c42058f6.chunk.js.map": "/Lingo-Swift/static/js/2.c42058f6.chunk.js.map",
     "index.html": "/Lingo-Swift/index.html",
-    "precache-manifest.6a9d56cb9c1b21de274c34eb849b2308.js": "/Lingo-Swift/precache-manifest.6a9d56cb9c1b21de274c34eb849b2308.js",
+    "precache-manifest.18c6f4ba69f1395ad8deae3b76eac3f7.js": "/Lingo-Swift/precache-manifest.18c6f4ba69f1395ad8deae3b76eac3f7.js",
     "service-worker.js": "/Lingo-Swift/service-worker.js",
     "static/css/2.f65acde2.chunk.css.map": "/Lingo-Swift/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.51f6b77a.chunk.css.map": "/Lingo-Swift/static/css/main.51f6b77a.chunk.css.map",
+    "static/css/main.3b970637.chunk.css.map": "/Lingo-Swift/static/css/main.3b970637.chunk.css.map",
     "static/js/2.c42058f6.chunk.js.LICENSE.txt": "/Lingo-Swift/static/js/2.c42058f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9f62e7d1.js",
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.c42058f6.chunk.js",
-    "static/css/main.51f6b77a.chunk.css",
+    "static/css/main.3b970637.chunk.css",
     "static/js/main.a3528d72.chunk.js"
   ]
 }
