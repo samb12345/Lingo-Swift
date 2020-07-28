@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6d6874a5a6c32b0bfee03a555407fcd",
+    "revision": "e92cddaa8f0126e426c87364f57d8b50",
     "url": "/Lingo-Swift/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lingo-Swift/static/css/2.f65acde2.chunk.css"
   },
   {
-    "revision": "caa6a566951c6495d6f2",
-    "url": "/Lingo-Swift/static/css/main.8df86c6d.chunk.css"
+    "revision": "f960be7994829b5416eb",
+    "url": "/Lingo-Swift/static/css/main.09df5e0f.chunk.css"
   },
   {
     "revision": "9bce68fc98907b4bb6ed",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lingo-Swift/static/js/2.c42058f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "caa6a566951c6495d6f2",
+    "revision": "f960be7994829b5416eb",
     "url": "/Lingo-Swift/static/js/main.a3528d72.chunk.js"
   },
   {
